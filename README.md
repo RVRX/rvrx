@@ -2,7 +2,7 @@
 
   📚 **WPI** Class of 2023, **Computer Science**.
   
-  🎥 My last major project was [GoICasterCompanion](https://github.com/RVRX/GoICasterCompanion/), combining my passion for digital media and programming.
+  🎥 My last major project was [GoICasterCompanion](https://github.com/RVRX/GoICasterCompanion/), combining my passion for video production and programming.
 
   📫 How to reach me: colemanning@yandex.com, or on [LinkedIn](https://www.linkedin.com/in/colemanning/).
   
