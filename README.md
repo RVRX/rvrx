@@ -1,4 +1,4 @@
-## Cole Manning // RVRX // RVRXFXRM
+## Cole Manning // RVRX
 
   📚 **[WPI](https://www.wpi.edu/)** Class of 2023, **Computer Science**.
   
