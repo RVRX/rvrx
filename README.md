@@ -7,3 +7,6 @@
   📫 Reach me at colemanning@yandex.com, or on [LinkedIn](https://www.linkedin.com/in/colemanning/).
   
   👤 Visit my website at [colermanning.com](https://colermanning.com/) for more info.
+
+## Reviews
+**"this is a really cool guy"** - force10269
