@@ -2,7 +2,7 @@
 
   📚 **[WPI](https://www.wpi.edu/)** Class of 2023, **Computer Science**.
   
-  🎥 My last major project was [GoICasterCompanion](https://github.com/RVRX/GoICasterCompanion/), combining my passion for video production and programming.
+  🎥 I'm currently working on fleshing out my blog @ https://blog.rvrx.dev. I'm designing it to be fully updatable through Markdown with no required build tools (thanks to GitHub actions).
 
   📫 Reach me at colemanning@yandex.com, or on [LinkedIn](https://www.linkedin.com/in/colemanning/).
   
